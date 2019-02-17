@@ -10,6 +10,7 @@ namespace Snake1
     {
         static void Main(string[] args)
         {
+
             int x1 = 1;
             int y1 = 3;
             char sym1 = '*';
@@ -23,6 +24,7 @@ namespace Snake1
             Draw(x2, y2, sym2);
 
             Console.ReadKey();
+
 
         }
 
